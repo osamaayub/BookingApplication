@@ -1,0 +1,2 @@
+.modal-box{-webkit-animation:slide .8s;animation:slide .8s}@-webkit-keyframes slide{0%{opacity:0;-webkit-transform:translateY(-200px);transform:translateY(-200px)}to{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes slide{0%{opacity:0;-webkit-transform:translateY(-200px);transform:translateY(-200px)}to{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}}
+/*# sourceMappingURL=7.070da496.chunk.css.map */
